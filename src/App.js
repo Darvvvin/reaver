@@ -1,11 +1,13 @@
-import logo from './logo.svg';
 import Intro from './components/Intro/Intro.jsx'
-import './App.css';
+import Lore from './components/Lore/Lore.jsx';
+
+import './App.css'
 
 function App() {
   return (
-    <div>
+    <div className='App'>
       <Intro />
+      <Lore />
     </div>
   );
 }

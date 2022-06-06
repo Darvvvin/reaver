@@ -1,8 +1,17 @@
-.App {
-    text-align: center;
+.navbar {
+    position: absolute;
+    width: 100%;
+    background-color: rgba(7, 39, 26, 0.534);
+    font-family: 'Sarpanch';
+    font-weight: 700;
+    padding: 5px;
 }
 
-.Intro-header {
+.nav-item {
+    font-size: calc(2px + 2vmin);
+}
+
+.Intro_header {
     background-image: url("/public/images/bg-space-empty-vignette.png");
     background-position: bottom;
     background-size: cover;
@@ -14,4 +23,24 @@
     justify-content: center;
     font-size: calc(10px + 2vmin);
     color: white;
+}
+
+.Intro_logo {
+    max-width: 95%;
+    z-index: 1;
+}
+
+.Intro_planet {
+    animation: MoveUpDown 3s linear infinite;
+    position: absolute;
+}
+
+@keyframes MoveUpDown {
+    0%, 100% {
+        padding-top: 0;
+    }
+
+    50% {
+        padding-top: 20px;
+    }
 }
