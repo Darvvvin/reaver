@@ -20,43 +20,93 @@ export default function Lore() {
       </section>
 
       <section className='Lore_classes'>
-        <div className='d-flex justify-content-center my-5'>
-          <div className='mx-4'>
-            <img src='/images/logo-marauder.png' width='150px' alt='' />
+        <div className='container text-center'>
+          <div className='row justify-content-center'>
+            <div className='col-lg-4 my-2'>
+              <img src='/images/marauder-2222.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-4 my-2'>
+              <img src='/images/spectres-2222.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-4 my-2'>
+              <img src='/images/vanguard-2222.png' className='img-fluid' alt='' />
+            </div>
           </div>
-          <div>
+
+          <div className='row justify-content-center my-4'>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-1.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-2.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-3.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-4.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-5.png' className='img-fluid' alt='' />
+            </div>
+          </div>
+          <div className='row'>
             <h1>Marauder</h1>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br />
-              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br />
+            <p className='Lore_description'>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
             </p>
           </div>
-        </div>
 
-        <div className='d-flex justify-content-center my-5'>
-          <div className='mx-4'>
-            <img src='/images/logo-spectre.png' width='150px' alt='' />
+          <div className='row justify-content-center my-4'>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-1.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-2.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-3.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-4.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-5.png' className='img-fluid' alt='' />
+            </div>
           </div>
-          <div>
+          <div className='row'>
             <h1>Spectre</h1>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br />
-              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br />
+            <p className='Lore_description'>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
             </p>
           </div>
-        </div>
 
-        <div className='d-flex justify-content-center my-5'>
-          <div className='mx-4'>
-            <img src='/images/logo-vanguard.png' width='150px' alt='' />
+          <div className='row justify-content-center my-4'>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-1.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-2.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-3.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-4.png' className='img-fluid' alt='' />
+            </div>
+            <div className='col-lg-2'>
+              <img src='/images/previews/vanguard-5.png' className='img-fluid' alt='' />
+            </div>
           </div>
-          <div>
+          <div className='row'>
             <h1>Vanguard</h1>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br />
-              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br />
+            <p className='Lore_description'>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
             </p>
           </div>
