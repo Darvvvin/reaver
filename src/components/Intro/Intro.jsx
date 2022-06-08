@@ -5,7 +5,7 @@ export default function Intro() {
     return (
         <div>
             <nav class="shadow navbar navbar-expand-lg navbar-dark justify-content-center">
-                <div class="container-fluid">
+                <div class="row">
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>

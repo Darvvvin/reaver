@@ -1,9 +1,9 @@
 .Lore_header {
     background-color: #1b0826;
     background-image: url('/public/images/splash-dark.png');
-    background-position: center;
+    background-position: top;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-size: 95%;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -41,4 +41,26 @@
 .Lore_description {
     margin: 0px auto 0;
     max-width: 800px;
+    padding: 10px;
+}
+
+.marauder_desc {
+    background-image: url("/public/images/logo-marauder.png");
+    background-position: center;
+    background-size: cover;
+    box-shadow: inset 0px 0px 20px rgba(0,0,0,1);
+}
+
+.spectre_desc {
+    background-image: url("/public/images/logo-spectre.png");
+    background-position: center;
+    background-size: cover;
+    box-shadow: inset 0px 0px 20px rgba(0,0,0,1);
+}
+
+.vanguard_desc {
+    background-image: url("/public/images/logo-vanguard.png");
+    background-position: center;
+    background-size: cover;
+    box-shadow: inset 0px 0px 20px rgba(0,0,0,1);
 }
