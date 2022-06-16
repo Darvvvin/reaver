@@ -58,7 +58,7 @@ export default function Lore() {
             </div>
           </div>
           <div className='row'>
-            <p className='Lore_description marauder_desc'>
+            <p className='Lore_description marauder_desc py-5'>
               <h1>Marauder</h1>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -85,7 +85,7 @@ export default function Lore() {
           </div>
 
           <div className='row'>
-            <p className='Lore_description spectre_desc'>
+            <p className='Lore_description spectre_desc py-5'>
               <h1>Spectre</h1>
 
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -112,7 +112,7 @@ export default function Lore() {
             </div>
           </div>
           <div className='row'>
-            <p className='Lore_description vanguard_desc'>
+            <p className='Lore_description vanguard_desc py-5'>
               <h1>Vanguard</h1>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

@@ -1,0 +1,10 @@
+.Meet_header {
+    background-color: #000000;
+    background-image: url("/public/images/bg-spacegrey.png");
+    background-position: top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
