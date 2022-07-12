@@ -42,19 +42,19 @@ export default function Lore() {
 
           <div className='row justify-content-center'>
             <div className='col-lg-2 my-3'>
-              <img src='/images/previews/vanguard-1.png' className='img-fluid' alt='' />
+              <img src='/images/previews/marauder-1.png' className='img-fluid' alt='' />
             </div>
             <div className='col-lg-2 my-3'>
-              <img src='/images/previews/vanguard-2.png' className='img-fluid' alt='' />
+              <img src='/images/previews/marauder-2.png' className='img-fluid' alt='' />
             </div>
             <div className='col-lg-2 my-3'>
-              <img src='/images/previews/vanguard-3.png' className='img-fluid' alt='' />
+              <img src='/images/previews/marauder-3.png' className='img-fluid' alt='' />
             </div>
             <div className='col-lg-2 my-3'>
-              <img src='/images/previews/vanguard-4.png' className='img-fluid' alt='' />
+              <img src='/images/previews/marauder-4.png' className='img-fluid' alt='' />
             </div>
             <div className='col-lg-2 my-3'>
-              <img src='/images/previews/vanguard-5.png' className='img-fluid' alt='' />
+              <img src='/images/previews/marauder-5.png' className='img-fluid' alt='' />
             </div>
           </div>
           <div className='row'>
@@ -68,19 +68,19 @@ export default function Lore() {
 
           <div className='row justify-content-center'>
             <div className='col-lg-2 my-3'>
-              <img src='/images/previews/vanguard-1.png' className='img-fluid' alt='' />
+              <img src='/images/previews/spectre-1.png' className='img-fluid' alt='' />
             </div>
             <div className='col-lg-2 my-3'>
-              <img src='/images/previews/vanguard-2.png' className='img-fluid' alt='' />
+              <img src='/images/previews/spectre-2.png' className='img-fluid' alt='' />
             </div>
             <div className='col-lg-2 my-3'>
-              <img src='/images/previews/vanguard-3.png' className='img-fluid' alt='' />
+              <img src='/images/previews/spectre-3.png' className='img-fluid' alt='' />
             </div>
             <div className='col-lg-2 my-3'>
-              <img src='/images/previews/vanguard-4.png' className='img-fluid' alt='' />
+              <img src='/images/previews/spectre-4.png' className='img-fluid' alt='' />
             </div>
             <div className='col-lg-2 my-3'>
-              <img src='/images/previews/vanguard-5.png' className='img-fluid' alt='' />
+              <img src='/images/previews/spectre-5.png' className='img-fluid' alt='' />
             </div>
           </div>
 
