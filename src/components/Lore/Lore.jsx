@@ -28,16 +28,15 @@ export default function Lore() {
       <section className='Lore_classes'>
         <div className='container text-center'>
           <div className='row justify-content-center'>
-            <div className='col-lg-4 my-2'>
+            <div className='col-lg-4 mb-4'>
               <img src='/images/vanguard-2222.png' className='img-fluid' alt='' />
             </div>
-            <div className='col-lg-4 my-2'>
+            <div className='col-lg-4 mb-4'>
               <img src='/images/spectres-2222.png' className='img-fluid' alt='' />
             </div>
-            <div className='col-lg-4 my-2'>
+            <div className='col-lg-4 mb-4'>
               <img src='/images/marauder-2222.png' className='img-fluid' alt='' />
             </div>
-
           </div>
 
           <div className='row justify-content-center'>

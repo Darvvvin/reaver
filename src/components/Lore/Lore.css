@@ -1,7 +1,7 @@
 .Lore_header {
-    background-color: #1b0826;
-    background-image: url('/public/images/splash-dark.png');
-    background-position: top;
+    background-color: #000000;
+    background-image: url('/public/images/splash-dark-fade.png');
+    background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;

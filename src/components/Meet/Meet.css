@@ -1,7 +1,7 @@
 .Meet_header {
     background-color: #000000;
-    background-image: url("/public/images/bg-spacegrey.png");
-    background-position: top;
+    background-image: url("/public/images/bg-spacegrey-fade.png");
+    background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
