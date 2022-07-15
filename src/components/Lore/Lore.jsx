@@ -4,25 +4,24 @@ import './Lore.css'
 export default function Lore() {
   return (
     <div>
-      <section className='Lore_header'>
+      <section className='Lore_header' id='lore'>
         <div className='container text-center'>
           <h4>YOUR JOURNEY BEGINS HERE</h4>
           <h1>CHOOSE YOUR DESTINY</h1>
           <div className='row justify-content-center'>
             <div className='col-3 my-3'>
-              <img src='/images/logo-marauder.png' className='img-fluid' alt='' />
+              <img src='/images/logo-vanguard.png' className='img-fluid' alt='' />
             </div>
             <div className='col-3 my-3 Lore_spectre'>
               <img src='/images/logo-spectre.png' className='img-fluid' alt='' />
             </div>
             <div className='col-3 my-3'>
-              <img src='/images/logo-vanguard.png' className='img-fluid' alt='' />
+              <img src='/images/logo-marauder.png' className='img-fluid' alt='' />
             </div>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br />
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br />
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            The Reaver Empire is the first quality high-res pixel, and art-&-community-based NFT project on the Cardano blockchain. <br />
+            Join us as we commence the creation of a new generation of augmented soldiers <br /> ready to conquer the Cardano Ecosystem, one NFT project at a time.
           </p>
         </div>
       </section>
@@ -30,14 +29,15 @@ export default function Lore() {
         <div className='container text-center'>
           <div className='row justify-content-center'>
             <div className='col-lg-4 my-2'>
-              <img src='/images/marauder-2222.png' className='img-fluid' alt='' />
+              <img src='/images/vanguard-2222.png' className='img-fluid' alt='' />
             </div>
             <div className='col-lg-4 my-2'>
               <img src='/images/spectres-2222.png' className='img-fluid' alt='' />
             </div>
             <div className='col-lg-4 my-2'>
-              <img src='/images/vanguard-2222.png' className='img-fluid' alt='' />
+              <img src='/images/marauder-2222.png' className='img-fluid' alt='' />
             </div>
+
           </div>
 
           <div className='row justify-content-center'>

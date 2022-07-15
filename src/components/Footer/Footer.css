@@ -1,0 +1,10 @@
+.Footer_header {
+    background-color: #000000;
+    background-image: url('/public/images/bg-anim-size.gif');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}

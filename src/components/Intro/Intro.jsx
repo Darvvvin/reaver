@@ -12,16 +12,16 @@ export default function Intro() {
                     <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/">Home</a>
+                                <a class="nav-link " aria-current="page" href="#home">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/">Lore</a>
+                                <a class="nav-link " href="#lore">Lore</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/">Roadmap</a>
+                                <a class="nav-link " href="#roadmap">Roadmap</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/">Meet The Team</a>
+                                <a class="nav-link " href="#mtt">Meet The Team</a>
                             </li>
                         </ul>
                     </div>

@@ -3,13 +3,13 @@ import './Roadmap.css'
 
 export default function Roadmap() {
     return (
-        <section className='Roadmap_header'>
+        <section className='Roadmap_header' id='roadmap'>
             <div className='container text-center my-5'>
                 <h1>THE ROADMAP</h1>
                 <div className='Roadmap-container'>
                     <div className='Roadmap-container-grid'>
                         <div className='Roadmap-container-item text-center' style={{ borderRight: '2px solid white' }}>
-                            <h2><b>Chapter 1</b> <hr /> The Birth of an Empire</h2>
+                            <h1><b style={{fontSize: '0.6em'}}>Chapter 1</b> <hr />Birth of <br/> an Empire</h1>
                         </div>
                         <div className='Roadmap-container-item' style={{ borderLeft: '2px solid white' }}>
                             <ul>
@@ -32,13 +32,13 @@ export default function Roadmap() {
                             </ul>
                         </div>
                         <div className='Roadmap-container-item text-center' style={{ borderLeft: '2px solid white' }}>
-                            <h2><b>Chapter 2</b> <hr /> The Expansion</h2>
+                            <h1><b style={{fontSize: '0.6em'}}>Chapter 2</b> <hr /> The Expansion</h1>
                         </div>
                     </div>
 
                     <div className='Roadmap-container-grid'>
                         <div className='Roadmap-container-item text-center' style={{ borderRight: '2px solid white' }}>
-                            <h2><b>Chapter 3</b> <hr /> The Conquest</h2>
+                            <h1><b style={{fontSize: '0.6em'}}>Chapter 3</b> <hr />The Conquest</h1>
                         </div>
                         <div className='Roadmap-container-item' style={{ borderLeft: '2px solid white' }}>
                             <ul>
@@ -54,7 +54,7 @@ export default function Roadmap() {
                         </div>
                     </div>
                 </div>
-
+                <img src='./images/promethean_pub.png' alt='' style={{width:'100%'}}/>
             </div>
         </section>
     )
