@@ -4,7 +4,7 @@ import './Footer.css'
 export default function Footer() {
     return (
         <section className='Footer_header pb-5'>
-            <img src='./images/splitter.png' className='w-100' />
+            <img src='./images/splitter.png' alt='' className='w-100' />
             <div>
                 <a href='https://discord.gg/xygKycSf' target='_blank' rel="noreferrer"><i class="fa-brands fa-discord fa-3x"></i></a>
                 <span className='mx-4' />
