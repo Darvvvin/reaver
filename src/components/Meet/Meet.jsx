@@ -6,20 +6,20 @@ export default function Meet() {
         <section className='Meet_header' id='mtt'>
             <div className='container text-center my-5'>
                 <h1>THE TEAM</h1>
-                <p>By the all-powerful Progenitors. <br />
-                    Six Seekers have been tasked to initiate The Havoc</p>
+                <p>All-powerful emperors. <br />
+                    Tasked to rule over the Reaver Empire</p>
                 <div className='row justify-content-center'>
                     <div className='col-3 my-3'>
                         <img src='/images/mtt-faust.png' className='img-fluid' alt='' />
                     </div>
                     <div className='col-3 my-3'>
-                        <img src='/images/mtt-faust.png' className='img-fluid' alt='' />
+                        <img src='/images/mtt-cel.png' className='img-fluid' alt='' />
                     </div>
                     <div className='col-3 my-3'>
-                        <img src='/images/mtt-faust.png' className='img-fluid' alt='' />
+                        <img src='/images/mtt-int.png' className='img-fluid' alt='' />
                     </div>
                     <div className='col-3 my-3'>
-                        <img src='/images/mtt-faust.png' className='img-fluid' alt='' />
+                        <img src='/images/mtt-zoisk.png' className='img-fluid' alt='' />
                     </div>
                 </div>
 
