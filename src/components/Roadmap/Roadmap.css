@@ -29,3 +29,7 @@
     margin: 1em;
     font-family: 'Jost';
 }
+
+.Roadmap-fade {
+    -webkit-mask-image: linear-gradient(180deg, #000 60%, transparent);
+}
