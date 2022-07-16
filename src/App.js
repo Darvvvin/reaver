@@ -13,7 +13,7 @@ function App() {
       <Lore />
       <Meet />
       <Roadmap />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
