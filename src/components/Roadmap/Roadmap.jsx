@@ -53,9 +53,11 @@ export default function Roadmap() {
                                 <li>Develop a Strong Holder Community</li>
                             </ul>
                         </div>
-
+                        <div>
+                            <small><b><i>~ End of Chapter 1 ~</i></b></small> 
+                        </div>
+                        <div class="w-100 my-3"></div>
                         <hr />
-
                         <h2> <b><i>Book 2 — EXODUS</i></b> </h2>
                         <div class="row Roadmap-container">
                             <div class="col">
