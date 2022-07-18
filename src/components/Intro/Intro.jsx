@@ -3,7 +3,7 @@ import './Intro.css';
 
 export default function Intro() {
     return (
-        <div>
+        <div id='home'>
             <nav class="shadow navbar navbar-expand-lg navbar-dark justify-content-center">
                 <div class="row">
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -22,6 +22,9 @@ export default function Intro() {
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link " href="#mtt">Meet The Team</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="#faq">FAQ</a>
                             </li>
                         </ul>
                     </div>

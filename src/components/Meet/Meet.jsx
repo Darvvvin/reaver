@@ -6,8 +6,8 @@ export default function Meet() {
         <section className='Meet_header' id='mtt'>
             <div className='container text-center my-5'>
                 <h1>THE TEAM</h1>
-                <p>All-powerful emperors. <br />
-                    Tasked to rule over the Reaver Empire</p>
+                <p>The Chosen Reavers.<br />
+                    Tasked to lead the Reaver Empire into the stars and beyond.</p>
                 <div className='row justify-content-center'>
                     <div className='col-3 my-3'>
                         <img src='/images/mtt-faust.png' className='img-fluid' alt='' />
