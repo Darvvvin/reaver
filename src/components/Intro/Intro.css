@@ -31,12 +31,11 @@
 }
 
 .Intro_logo {
-    max-width: 95%;
+    max-width: 80%;
     z-index: 1;
 }
 
 .Intro_planet {
-    animation: MoveUpDown 3s linear infinite;
     max-width: 400px;
     position: absolute;
 }

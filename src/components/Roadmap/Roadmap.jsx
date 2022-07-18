@@ -9,10 +9,10 @@ export default function Roadmap() {
                 <h2> <b><i>Book 1 — GENESIS</i></b> </h2>
                 <div class="container">
                     <div class="row Roadmap-container">
-                        <div class="col">
+                        <div class="col-sm">
                             <h1><b style={{ fontSize: '0.6em' }}>Chapter 1</b> <hr />Birth of <br /> an Empire</h1>
                         </div>
-                        <div class="col Roadmap-container-item">
+                        <div class="col-sm Roadmap-container-item">
                             <ul>
                                 <li>✅ Build the Discord Server</li>
                                 <li>✅ Create the Twitter account</li>
@@ -24,7 +24,7 @@ export default function Roadmap() {
 
                         <div class="w-100 my-3"></div>
 
-                        <div class="col Roadmap-container-item">
+                        <div class="col-sm Roadmap-container-item">
                             <ul>
                                 <li>✅ Collaborate with Different <br /> NFT Projects and Groups Pre-Mint</li>
                                 <li>Produce 3333 Reaver NFTs, 1111 of each Class</li>
@@ -32,16 +32,16 @@ export default function Roadmap() {
                                 <li>Engage with the Community</li>
                             </ul>
                         </div>
-                        <div class="col">
+                        <div class="col-sm">
                             <h1><b style={{ fontSize: '0.6em' }}>Chapter 2</b> <hr /> The Expansion</h1>
                         </div>
 
                         <div class="w-100 my-3"></div>
 
-                        <div class="col ">
+                        <div class="col-sm ">
                             <h1><b style={{ fontSize: '0.6em' }}>Chapter 3</b> <hr />The Conquest</h1>
                         </div>
-                        <div class="col Roadmap-container-item">
+                        <div class="col-sm Roadmap-container-item">
                             <ul>
                                 <li>Finalize minting parameters</li>
                                 <li>Sell out 3333 Reaver NFTs</li>
@@ -60,10 +60,10 @@ export default function Roadmap() {
                         <hr />
                         <h2> <b><i>Book 2 — EXODUS</i></b> </h2>
                         <div class="row Roadmap-container">
-                            <div class="col">
+                            <div class="col-sm">
                                 <h1><b style={{ fontSize: '0.6em' }}>Chapter 1</b> <hr />Promethean Trials</h1>
                             </div>
-                            <div class="col Roadmap-container-item">
+                            <div class="col-sm Roadmap-container-item">
                                 <ul>
                                     <li>Reveal Utilities and Features of Promethean Reaver NFT</li>
                                     <ul>
@@ -84,12 +84,12 @@ export default function Roadmap() {
                             <div class="w-100 my-3"></div>
 
                             <div className='Roadmap-fade row'>
-                                <div class="col Roadmap-container-item">
+                                <div class="col-sm Roadmap-container-item">
                                     <ul>
                                         <li>More to come...</li>
                                     </ul>
                                 </div>
-                                <div class="col">
+                                <div class="col-sm">
                                     <h1><b style={{ fontSize: '0.6em' }}>Chapter X</b> <hr />More to Come...</h1>
                                 </div>
                             </div>

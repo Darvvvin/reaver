@@ -32,7 +32,7 @@ export default function Intro() {
             </nav>
 
             <section className='Intro_header'>
-                <img src='./images/logo-planet.png' className='Intro_planet' alt='' />
+                 {/* <img src='./images/logo-planet.png' className='Intro_planet' alt='' /> */}
                 <img src='./images/logo-primary.png' className='Intro_logo' alt='' />
             </section>
         </div>
