@@ -19,9 +19,9 @@ export default function Lore() {
               <img src='/images/logo-marauder.png' className='img-fluid' alt='' />
             </div>
           </div>
-          <p>
-            The Reaver Empire is the first quality high-res pixel, and art-&-community-based NFT project on the Cardano blockchain. <br />
-            Join us as we commence the creation of a new generation of augmented soldiers <br /> ready to conquer the Cardano Ecosystem, one NFT project at a time.
+          <p className='w-100'>
+            <br />The Reaver Empire is the first quality high-res pixel, and art-&-community-based NFT project on the Cardano blockchain. <br />
+            Join us as we commence the creation of a new generation of augmented soldiers ready to conquer the Cardano Ecosystem;<br /><br />One NFT project at a time.
           </p>
         </div>
       </section>

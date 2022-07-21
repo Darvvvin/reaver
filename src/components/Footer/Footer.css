@@ -11,6 +11,7 @@
 a {
     color: white;
     transition: .25s;
+    text-decoration: none;
 }
 
 a:hover {
