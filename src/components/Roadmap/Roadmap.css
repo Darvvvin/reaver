@@ -22,10 +22,7 @@
 }
 
 .Roadmap-container-item {
-    justify-content: center;
     text-align: left;
-    display: flex;
-    margin: 1em;
 }
 
 .Roadmap-fade {

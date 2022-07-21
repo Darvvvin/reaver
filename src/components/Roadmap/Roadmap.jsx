@@ -8,7 +8,7 @@ export default function Roadmap() {
                 <h1>ROADMAP</h1>
                 <h2> <b><i>Book 1 — GENESIS</i></b> </h2>
                 <div class="container">
-                    <div class="row Roadmap-container justify-content-center">
+                    <div class="row Roadmap-container justify-content-center gx-5">
                         <div class="col-lg-5">
                             <h1><b style={{ fontSize: '0.6em' }}>Chapter 1</b> <hr />Birth of <br /> an Empire</h1>
                         </div>
@@ -25,7 +25,10 @@ export default function Roadmap() {
 
                     <div class="w-100 my-3"></div>
 
-                    <div class="row Roadmap-container justify-content-center">
+                    <div class="row Roadmap-container justify-content-center gx-5">
+                        <div class="col-lg-5">
+                            <h1><b style={{ fontSize: '0.6em' }}>Chapter 2</b> <hr /> The Expansion</h1>
+                        </div>
                         <div class="col-lg-5 Roadmap-container-item">
                             <ul>
                                 <li>✅ Collaborate with Different <br /> NFT Projects and Groups Pre-Mint</li>
@@ -34,14 +37,11 @@ export default function Roadmap() {
                                 <li>Engage with the Community</li>
                             </ul>
                         </div>
-                        <div class="col-lg-5">
-                            <h1><b style={{ fontSize: '0.6em' }}>Chapter 2</b> <hr /> The Expansion</h1>
-                        </div>
                     </div>
 
                     <div class="w-100 my-3"></div>
 
-                    <div class="row Roadmap-container justify-content-center">
+                    <div class="row Roadmap-container justify-content-center gx-5">
                         <div class="col-lg-5 ">
                             <h1><b style={{ fontSize: '0.6em' }}>Chapter 3</b> <hr />The Conquest</h1>
                         </div>
@@ -69,7 +69,7 @@ export default function Roadmap() {
 
                     <h2> <b><i>Book 2 — EXODUS</i></b> </h2>
 
-                    <div class="row Roadmap-container justify-content-center">
+                    <div class="row Roadmap-container justify-content-center gx-5">
                         <div class="col-lg-5">
                             <h1><b style={{ fontSize: '0.6em' }}>Chapter 1</b> <hr />Promethean Trials</h1>
                         </div>
@@ -93,14 +93,14 @@ export default function Roadmap() {
 
                         <div class="w-100 my-3"></div>
 
-                        <div className='Roadmap-fade row justify-content-center'>
+                        <div className='Roadmap-fade row justify-content-center gx-5'>
+                            <div class="col-lg-5 ">
+                                <h1><b style={{ fontSize: '0.6em' }}>Chapter X</b> <hr />More to Come...</h1>
+                            </div>
                             <div class="col-lg-5 Roadmap-container-item">
                                 <ul>
                                     <li>More to come...</li>
                                 </ul>
-                            </div>
-                            <div class="col-lg-5">
-                                <h1><b style={{ fontSize: '0.6em' }}>Chapter X</b> <hr />More to Come...</h1>
                             </div>
                         </div>
 
