@@ -11,21 +11,26 @@ export default function Meet() {
                 <div className='row justify-content-center'>
                     <div className='col-lg-3 my-3'>
                         <img src='/images/mtt-faust.png' className='img-fluid' alt='' />
-                        <li>Crypto and NFT enthusiast with a background in Software Development. Oversees project operations and handles
-                            external relations. DM him for business inquiries.</li>
+                        <li>Oversees project operations and handles external relations. </li>
+                        <li>DM for professional inquiries. </li>
+                        <li>Background in Software Development.</li>
                     </div>
                     <div className='col-lg-3 my-3'>
                         <img src='/images/mtt-cel.png' className='img-fluid' alt='' />
-                        <li>Justin fix your copywriting</li>
+                        <li>Mod</li>
                     </div>
                     <div className='col-lg-3 my-3'>
                         <img src='/images/mtt-int.png' className='img-fluid' alt='' />
-                        <li>Game developer and designer, Web developer, 3D artist.</li>
+                        <li>Marketing and Creatives head of the Reaver Empire. </li>
+                        <li>Game developer and designer </li>
+                        <li>Web developer and 3D artist. </li>
                     </div>
                     <div className='col-lg-3 my-3'>
                         <img src='/images/mtt-zoisk.png' className='img-fluid' alt='' />
                         <i class="fa-brands fa-instagram"></i> <b><a href='https://www.instagram.com/zoisk_art/' target='_blank' rel='noreferrer'>Instagram @zoisk_art</a></b>
-                        <li>Professional pixel artist and art lead with a background of Game Arts and Design.</li>
+                        <li>Lead artist of the Reaver Empire.</li>
+                        <li>Professional pixel artist at a game studio. </li>
+                        <li>Background in Game Arts and Design.</li>
                     </div>
                 </div>
 
