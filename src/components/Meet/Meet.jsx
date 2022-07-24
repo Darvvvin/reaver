@@ -17,7 +17,9 @@ export default function Meet() {
                     </div>
                     <div className='col-lg-3 my-3'>
                         <img src='/images/mtt-cel.png' className='img-fluid' alt='' />
-                        <li>Mod</li>
+                        <li>Technical and Financial Lead of the Empire</li>
+                        <li>CNFT/SOL enthusiast</li>
+                        <li>Experienced in developing and using Solana Programs.</li>
                     </div>
                     <div className='col-lg-3 my-3'>
                         <img src='/images/mtt-int.png' className='img-fluid' alt='' />
